@@ -74,3 +74,29 @@
 .cd{
 	padding: 2px 5px;
 }
+
+
+/* ===================360 width========= */
+@media (width: 360px) {
+	.headerset{
+	margin-top: 50px;
+	opacity: 0.7;
+}
+  .headerform{
+	height: 180px;
+	margin-top: 20px;
+}
+}
+/* ===================End 360 width========= */
+/* ===================640 width========= */
+@media (width: 640px) {
+	.headerset{
+	margin-top: 40px;
+	opacity: 0.7;
+}
+  .headerform{
+	height: 70px;
+	margin-top: 20px;
+}
+}
+/* ===================End 640 width========= */
